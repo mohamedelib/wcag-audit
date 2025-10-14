@@ -1,18 +1,7 @@
-# WCAG Audit 
+# Geteste website
+Website: Autobedrijf Zaanstreek
+link: https://www.autobedrijfzaanstreek.nl/
 
-Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
+Voor deze opdracht heb ik gekeken naar de toegankelijkheid van een website. Ik wilde weten hoe gebruiksvriendelijk en inclusief de site is voor iedereen ook voor mensen die bijvoorbeeld met een schermlezer werken of liever met het toetsenbord navigeren.
+De site die ik heb getest, is van een kennis van me: Autobedrijf Zaanstreek.Hiervoor heb ik zowel Lighthouse-tests als handmatige checks uitgevoerd.
 
-De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/wcag-audit/blob/main/docs/INSTRUCTIONS.md).
-
-
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
-
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
-
-Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie.
-
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
